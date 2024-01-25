@@ -1,2 +1,2 @@
 # Stazione-Treni
-Stazione treni
+Train Station Simulator for a C++ programming course at the university. The purpose of this program is to emulate a series of train stations coordinated to form a network. The coordinator's goal is to simulate the network without generating any delayed trains. The movement of trains is concurrent since there are more trains than railways. Trains need to stop in parking areas or proceed to the station without collisions, employing a discrete time approach.
